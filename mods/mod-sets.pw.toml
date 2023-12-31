@@ -1,0 +1,13 @@
+name = "Mod Sets"
+filename = "mod_sets-intermediary-1.4.8+sha.5712396+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b313lC4Y/versions/YBbzbQww/mod_sets-intermediary-1.4.8%2Bsha.5712396%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "516307b2eb480155db6e75f135799b2f0e4e6133"
+
+[update]
+[update.modrinth]
+mod-id = "b313lC4Y"
+version = "YBbzbQww"

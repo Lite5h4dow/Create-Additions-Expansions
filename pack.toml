@@ -1,0 +1,13 @@
+name = "Create - Additionsi & Extensions"
+author = "Litelotus"
+version = "0.0.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9b343bd86d194260034a3a2f49af3dcb838ec6d76805db102da1d505c425325a"
+
+[versions]
+fabric = "0.15.3"
+minecraft = "1.20.1"
