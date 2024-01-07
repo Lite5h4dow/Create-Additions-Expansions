@@ -1,4 +1,4 @@
-name = "Create - Additionsi & Extensions"
+name = "Create - Additions & Extensions"
 author = "Litelotus"
 version = "0.0.3"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9b343bd86d194260034a3a2f49af3dcb838ec6d76805db102da1d505c425325a"
+hash = "fe5c97dccaa737245869db71c5906a9c8a47f614167d3985eaab1913de15bf1f"
 
 [versions]
 fabric = "0.15.3"

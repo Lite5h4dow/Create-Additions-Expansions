@@ -1,0 +1,13 @@
+name = "Netherracked"
+filename = "netherracked-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vNFbVrF1/versions/9jKreMJ3/netherracked-1.0.0.jar"
+hash-format = "sha1"
+hash = "f8eeaa21d0d569b0d8ba30a85795e8d556422ae2"
+
+[update]
+[update.modrinth]
+mod-id = "vNFbVrF1"
+version = "9jKreMJ3"

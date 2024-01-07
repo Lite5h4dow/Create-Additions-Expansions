@@ -1,11 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
-file = "add.sh"
-hash = "a1ed801f05236d100da6009560f9b1bfc9bc7d35f4751eb4bb4049ad3961f16f"
+file = "init.sh"
+hash = "7f1a1cf8fddc04f08abf9f95ae93abcdc23087fde2a59efdfa43ab044120c5d4"
 
 [[files]]
-file = "mods.txt"
+file = "init.txt"
 hash = "2db1620ffefbc860d5a0880291aafa992458fe039e1b8cf6fe0c11ae60b9f245"
 
 [[files]]
@@ -389,6 +389,11 @@ hash = "030992dda4ed112d764c1e0fbc0ecf3bfb9f2efb40ab91cc26155be7e3f8a98a"
 metafile = true
 
 [[files]]
+file = "mods/netherracked.pw.toml"
+hash = "a234684269a509b1849cc79bab7f955880f7908c6740f90543459cc37ec61c27"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
@@ -416,11 +421,6 @@ metafile = true
 [[files]]
 file = "mods/recursiveresources.pw.toml"
 hash = "a31bc2e0d4721a7d48388c7e2c2bac5f66fa775aee6d4f2e4b4b4c4b340ca2dd"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "23d596d1d2e39ae3b05415790663819401fc62d745d6a817e88d9c36d07bce53"
 metafile = true
 
 [[files]]
